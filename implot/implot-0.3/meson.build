@@ -28,7 +28,6 @@ dearimgui_dep = dearimgui_sp.get_variable('imgui_dep')
 implot_inc = include_directories(['.'])
 implot_src = files(
   'implot.cpp',
-  'implot_demo.cpp'
 )
 
 implot_lib = static_library(
