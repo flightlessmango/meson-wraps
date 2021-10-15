@@ -4,6 +4,6 @@ source_url=https://github.com/epezent/implot/archive/v0.3.tar.gz
 source_filename=implot-v0.3.tar.gz
 source_hash=2eef93a50fe4ceb04f036d95869a216f01ca61af1dbfaa2e0be3473e14f836c5
 
-patch_url=https://github.com/flightlessmango/meson-wraps/raw/master/implot/implot_meson.zip
-patch_filename=implot_meson.zip
-patch_hash=ad89af41719a68409bbe76778d9dcef4c7accfea5a9c55a6ab629ce8cddd3f26
+patch_url=https://github.com/flightlessmango/meson-wraps/raw/master/implot/implot-meson.zip
+patch_filename=implot-meson.zip
+patch_hash=92c2cd1ccf8e15b3dc8ac1547921be2305f08f153c3fe206a5e8fc1e571e71e0
