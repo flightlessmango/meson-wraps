@@ -6,4 +6,4 @@ source_hash=2eef93a50fe4ceb04f036d95869a216f01ca61af1dbfaa2e0be3473e14f836c5
 
 patch_url=https://github.com/flightlessmango/meson-wraps/raw/master/implot/implot-meson.zip
 patch_filename=implot-meson.zip
-patch_hash=92c2cd1ccf8e15b3dc8ac1547921be2305f08f153c3fe206a5e8fc1e571e71e0
+patch_hash=fabf65e16b608e502b4686000e613d6a06a9311600509b94092e8bde047a62c1
